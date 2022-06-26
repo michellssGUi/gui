@@ -1,0 +1,26 @@
+img.img-cabecalho{
+    width: 250px;
+    height: 250px;
+    margin: 0;
+    padding: 0;
+    border-radius: 10px;
+    border: 3px solid black;
+    box-shadow: 10px 10px 30px -6px black;
+}
+
+p{
+    text-align: justify;
+}
+
+#academico,
+#soft,
+#hard{
+    display: none;
+    transition: 0.5 all;
+}
+
+section{
+    background-color: rgb(231, 231, 231);
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.308);
+}
